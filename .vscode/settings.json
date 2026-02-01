@@ -1,5 +1,7 @@
 {
     "jupyter.kernels.excludePythonEnvironments": [
         "/usr/bin/python3.11"
-    ]
+    ],
+    "snyk.advanced.organization": "629af3bb-6c6e-4420-8bec-b55d762f6c50",
+    "snyk.advanced.autoSelectOrganization": true
 }
