@@ -20,3 +20,6 @@ build/
 .cache/
 
 /Dockerfile
+
+# Environment snapshots
+installed_packages.txt
